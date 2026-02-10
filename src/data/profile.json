@@ -1,7 +1,7 @@
 {
   "name": "Yousef Sarama",
   "title": "Full Stack Developer",
-  "photo": "./src/data/info/yousef_profile.png",
+  "photo": "/src/data/info/yousef_profile.PNG",
   "bio": "Passionate developer creating beautiful and functional web experiences",
   "about": "Dynamic Full Stack Developer with a passion for building scalable web applications and innovativesolutions. Proficient in both frontend and back-end technologies, I leverage my skills in JavaScript,React, Node.js and Django to deliver seamless user experiences. Eager to contribute to a forward-thinking team that values creativity and collaboration",
   "highlights": [
