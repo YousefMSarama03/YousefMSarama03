@@ -1,7 +1,7 @@
 {
   "name": "Yousef Sarama",
   "title": "Full Stack Developer",
-  "photo": "/src/data/info/yousef_profile.PNG",
+  "photo": "/assets/yousef_profile.png",
   "bio": "Passionate developer creating beautiful and functional web experiences",
   "about": "Dynamic Full Stack Developer with a passion for building scalable web applications and innovativesolutions. Proficient in both frontend and back-end technologies, I leverage my skills in JavaScript,React, Node.js and Django to deliver seamless user experiences. Eager to contribute to a forward-thinking team that values creativity and collaboration",
   "highlights": [
@@ -12,7 +12,7 @@
     "5+ years building production-ready applications",
     "Agile methodology & cross-functional team collaboration"
   ],
-  "cvLink": "./src/data/info/Yousef-sarama's-CV.pdf",
+  "cvLink": "/assets/yousef-sarama-cv.pdf",
   "email": "yosefsarama23@gmail.com",
   "phone": "+972 592 809 915",
   "location": "Palestine, Ramallah",
@@ -20,57 +20,20 @@
     "github": "https://github.com/YousefMSarama03",
     "linkedin": "https://www.linkedin.com/in/yousef-zakarya-0000y1111/"
   },
-  "techStack": [
-    "React",
-    "TypeScript",
-    "Django",
-    "Python",
-    "MySQL",
-    "Node.js",
-    "Tailwind CSS",
-    "PostgreSQL",
-    "Docker",
-    "AWS",
-    "Git",
-    "CI/CD",
-    "PHP"
-    
-  ],
+  "techStack": ["React","TypeScript","Django","Python","MySQL","Node.js","Tailwind CSS","PostgreSQL","Docker","AWS","Git","CI/CD","PHP"],
   "skills": [
-    {
-      "name": "React",
-      "level": 90
-    },
-    {
-      "name": "PostgreSQL",
-      "level": 85
-    },
-    {
-      "name": "Node.js",
-      "level": 80
-    },
-    {
-      "name": "TypeScript",
-      "level": 75
-    },
-    {
-      "name": "Python",
-      "level": 85
-    },
-    {
-      "name": "Django",
-      "level": 90
-    }
+    { "name": "React", "level": 90 },
+    { "name": "PostgreSQL", "level": 85 },
+    { "name": "Node.js", "level": 80 },
+    { "name": "TypeScript", "level": 75 },
+    { "name": "Python", "level": 85 },
+    { "name": "Django", "level": 90 }
   ],
   "projects": [
-        {
+    {
       "title": "SIIN Enterprise Web Platform",
       "description": "A professional enterprise web application developed for SIIN Company, featuring a modern frontend architecture built with JavaScript, CSS, and HTML. The platform delivers a responsive user interface with optimized performance and clean code structure.",
-      "technologies": [
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
+      "technologies": ["JavaScript","CSS","HTML"],
       "category": "Enterprise Web Application",
       "featured": true,
       "highlights": [
@@ -78,21 +41,14 @@
         "Implemented responsive design patterns and professional CSS styling (4.5%) ensuring cross-browser compatibility and modern UI/UX standards",
         "Maintained semantic HTML5 markup structure (0.6%) following industry best practices and accessibility guidelines"
       ],
-      "image": "./src/data/info/siin_Company.png",
+      "image": "/assets/siin_company.png",
       "link": "https://Siin.dev",
       "github": "https://github.com/YousefMSarama03/siin-proj"
     },
-        {
+    {
       "title": "University Event Management System",
       "description": "A comprehensive full-stack event management platform designed for universities, enabling seamless event creation, real-time student participation tracking, and collaborative event coordination. Built with modern TypeScript backend architecture and Python integration for robust data processing and management.",
-      "technologies": [
-        "TypeScript",
-        "React(Vite)",
-        "Django",
-        "Rest API",
-        "PWA Development",
-        "AI/ML Integration"
-      ],
+      "technologies": ["TypeScript","React(Vite)","Django","Rest API","PWA Development","AI/ML Integration"],
       "category": "Educational Management Software",
       "featured": true,
       "highlights": [
@@ -100,21 +56,14 @@
         "Implemented Python-based data processing and business logic layer (26%) for advanced event analytics, reporting, and system integration capabilities",
         "Engineered responsive HTML frontend (2.1%) with intuitive user interface for streamlined event discovery, registration, and participation management"
       ],
-      "image": "./src/data/info/Ciu_proj.png",
+      "image": "/assets/ciu_proj.png",
       "link": "https://github.com/Neginadg/university-event-manager",
       "github": "https://github.com/Neginadg/university-event-manager"
     },
-        {
+    {
       "title": "Jerusalem Fund Web Portal",
       "description": "A professional front-end web application for the Jerusalem Fund initiative, featuring a modern, responsive design that showcases fund information and facilitates user engagement. Built with semantic HTML5 and advanced CSS styling to deliver an elegant, accessible, and high-performance user experience.",
-      "technologies": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Responsive Design",
-        "Frontend Development",
-        "UI/UX Design"
-      ],
+      "technologies": ["HTML5","CSS3","JavaScript","Responsive Design","Frontend Development","UI/UX Design"],
       "category": "Non-Profit Web Portal",
       "featured": true,
       "highlights": [
@@ -122,14 +71,13 @@
         "Implemented advanced CSS3 styling and animations (48.9%) creating a visually compelling interface with modern design patterns and professional branding",
         "Engineered dynamic frontend interactions (0.6%) with JavaScript to enhance user engagement and provide seamless navigation throughout the platform"
       ],
-      "image": "./src/data/info/Jarusalem_Fund.png",
+      "image": "/assets/jerusalem_fund.png",
       "link": "https://thejerusalemfund.org/",
       "github": "https://github.com/YousefMSarama03/Jeruslaem-fund"
     }
-    
   ],
   "experience": [
-        {
+    {
       "company": "Sin Company",
       "position": "Front-End Developer",
       "period": "May 2024 – Aug 2025",
@@ -142,7 +90,6 @@
         "Maintained clean, scalable, and reusable component-based code"
       ]
     },
-
     {
       "company": "Blue Company",
       "position": "Freelance Web Developer",
@@ -158,7 +105,7 @@
     }
   ],
   "education": [
-        {
+    {
       "institution": "Cyprus International University",
       "degree": "B.Sc. in Software Engineering",
       "period": "Jan 2022 – Jan 2026",
