@@ -1,0 +1,168 @@
+{
+  "name": "Yousef Sarama",
+  "title": "Full Stack Developer",
+  "photo": "./src/data/info/yousef_profile.png",
+  "bio": "Passionate developer creating beautiful and functional web experiences",
+  "about": "Dynamic Full Stack Developer with a passion for building scalable web applications and innovativesolutions. Proficient in both frontend and back-end technologies, I leverage my skills in JavaScript,React, Node.js and Django to deliver seamless user experiences. Eager to contribute to a forward-thinking team that values creativity and collaboration",
+  "highlights": [
+    "Expert in React & modern JavaScript frameworks",
+    "Proficient in Django & Python backend development",
+    "Strong MySQL database design & optimization skills",
+    "Experience with AI/ML integration in web applications",
+    "5+ years building production-ready applications",
+    "Agile methodology & cross-functional team collaboration"
+  ],
+  "cvLink": "./src/data/info/Yousef-sarama's-CV.pdf",
+  "email": "yosefsarama23@gmail.com",
+  "phone": "+972 592 809 915",
+  "location": "Palestine, Ramallah",
+  "social": {
+    "github": "https://github.com/YousefMSarama03",
+    "linkedin": "https://www.linkedin.com/in/yousef-zakarya-0000y1111/"
+  },
+  "techStack": [
+    "React",
+    "TypeScript",
+    "Django",
+    "Python",
+    "MySQL",
+    "Node.js",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Git",
+    "CI/CD",
+    "PHP"
+    
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "level": 90
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 85
+    },
+    {
+      "name": "Node.js",
+      "level": 80
+    },
+    {
+      "name": "TypeScript",
+      "level": 75
+    },
+    {
+      "name": "Python",
+      "level": 85
+    },
+    {
+      "name": "Django",
+      "level": 90
+    }
+  ],
+  "projects": [
+        {
+      "title": "SIIN Enterprise Web Platform",
+      "description": "A professional enterprise web application developed for SIIN Company, featuring a modern frontend architecture built with JavaScript, CSS, and HTML. The platform delivers a responsive user interface with optimized performance and clean code structure.",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "category": "Enterprise Web Application",
+      "featured": true,
+      "highlights": [
+        "Architected and developed a robust JavaScript-based frontend (94.9% of codebase) with optimized performance and scalability",
+        "Implemented responsive design patterns and professional CSS styling (4.5%) ensuring cross-browser compatibility and modern UI/UX standards",
+        "Maintained semantic HTML5 markup structure (0.6%) following industry best practices and accessibility guidelines"
+      ],
+      "image": "./src/data/info/siin_Company.png",
+      "link": "https://Siin.dev",
+      "github": "https://github.com/YousefMSarama03/siin-proj"
+    },
+        {
+      "title": "University Event Management System",
+      "description": "A comprehensive full-stack event management platform designed for universities, enabling seamless event creation, real-time student participation tracking, and collaborative event coordination. Built with modern TypeScript backend architecture and Python integration for robust data processing and management.",
+      "technologies": [
+        "TypeScript",
+        "React(Vite)",
+        "Django",
+        "Rest API",
+        "PWA Development",
+        "AI/ML Integration"
+      ],
+      "category": "Educational Management Software",
+      "featured": true,
+      "highlights": [
+        "Developed a scalable full-stack application with TypeScript backend (70.5%) featuring real-time event management and student participation workflows",
+        "Implemented Python-based data processing and business logic layer (26%) for advanced event analytics, reporting, and system integration capabilities",
+        "Engineered responsive HTML frontend (2.1%) with intuitive user interface for streamlined event discovery, registration, and participation management"
+      ],
+      "image": "./src/data/info/Ciu_proj.png",
+      "link": "https://github.com/Neginadg/university-event-manager",
+      "github": "https://github.com/Neginadg/university-event-manager"
+    },
+        {
+      "title": "Jerusalem Fund Web Portal",
+      "description": "A professional front-end web application for the Jerusalem Fund initiative, featuring a modern, responsive design that showcases fund information and facilitates user engagement. Built with semantic HTML5 and advanced CSS styling to deliver an elegant, accessible, and high-performance user experience.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design",
+        "Frontend Development",
+        "UI/UX Design"
+      ],
+      "category": "Non-Profit Web Portal",
+      "featured": true,
+      "highlights": [
+        "Designed and developed a responsive HTML5 web portal (50.5%) with semantic markup and accessibility standards for optimal user experience across all devices",
+        "Implemented advanced CSS3 styling and animations (48.9%) creating a visually compelling interface with modern design patterns and professional branding",
+        "Engineered dynamic frontend interactions (0.6%) with JavaScript to enhance user engagement and provide seamless navigation throughout the platform"
+      ],
+      "image": "./src/data/info/Jarusalem_Fund.png",
+      "link": "https://thejerusalemfund.org/",
+      "github": "https://github.com/YousefMSarama03/Jeruslaem-fund"
+    }
+    
+  ],
+  "experience": [
+        {
+      "company": "Sin Company",
+      "position": "Front-End Developer",
+      "period": "May 2024 – Aug 2025",
+      "description": "Worked as a Front-End Developer focusing on building modern, responsive, and high-performance web interfaces using React and Tailwind CSS. Collaborated closely with backend teams to integrate APIs and deliver seamless user experiences.",
+      "achievements": [
+        "Developed responsive and modern user interfaces using React and Tailwind CSS",
+        "Implemented UI/UX best practices to improve user engagement and accessibility",
+        "Collaborated with backend developers to integrate REST APIs securely and efficiently",
+        "Optimized front-end performance, reducing load times and improving responsiveness",
+        "Maintained clean, scalable, and reusable component-based code"
+      ]
+    },
+
+    {
+      "company": "Blue Company",
+      "position": "Freelance Web Developer",
+      "period": "Jul 2025 – Sep 2025",
+      "description": "Freelance Web Developer delivering end-to-end web solutions for clients, from requirements gathering to deployment. Worked independently and remotely to build responsive, performant websites aligned with business goals and client branding.",
+      "achievements": [
+        "Delivered complete web solutions independently while meeting tight deadlines",
+        "Collaborated remotely with clients to translate business requirements into technical solutions",
+        "Developed responsive, cross-device websites using modern frontend technologies",
+        "Integrated APIs to support dynamic content and real-time functionality",
+        "Improved website performance and usability through optimized code and UI/UX best practices"
+      ]
+    }
+  ],
+  "education": [
+        {
+      "institution": "Cyprus International University",
+      "degree": "B.Sc. in Software Engineering",
+      "period": "Jan 2022 – Jan 2026",
+      "description": "Completed a Bachelor's degree in Software Engineering with strong focus on Full-Stack Web Development, Database Systems, and Machine Learning. Gained hands-on experience through multiple academic and practical projects using modern technologies and Agile development practices."
+    }
+  ]
+}
