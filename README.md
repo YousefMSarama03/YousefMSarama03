@@ -38,10 +38,6 @@ I specialize in modern frontend architecture and robust backend systems with an 
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefMSarama03&show_icons=true&theme=tokyonight&count_private=true)
-
----
 
 ✨ **Open to Remote Opportunities**
