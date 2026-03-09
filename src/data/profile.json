@@ -1,34 +1,58 @@
 {
   "name": "Yousef Sarama",
-  "title": "Full Stack Developer",
+  "title": "Junior Backend Developer | Django Developer",
   "photo": "/assets/yousef_profile.png",
-  "bio": "Passionate developer creating beautiful and functional web experiences",
-  "about": "Dynamic Full Stack Developer with a passion for building scalable web applications and innovativesolutions. Proficient in both frontend and back-end technologies, I leverage my skills in JavaScript,React, Node.js and Django to deliver seamless user experiences. Eager to contribute to a forward-thinking team that values creativity and collaboration",
+
+  "bio": "Software Engineering graduate passionate about backend development and building scalable web applications.",
+
+  "about": "Junior Backend Developer with practical experience building web applications using Django, React, and REST APIs. Strong foundation in software engineering principles, database design, and full-stack development. Interested in building scalable backend systems and continuously improving development skills.",
+
   "highlights": [
-    "Expert in React & modern JavaScript frameworks",
-    "Proficient in Django & Python backend development",
-    "Strong MySQL database design & optimization skills",
-    "Experience with AI/ML integration in web applications",
-    "5+ years building production-ready applications",
-    "Agile methodology & cross-functional team collaboration"
+    "Backend development with Django and Django REST Framework",
+    "Building REST APIs and authentication systems",
+    "Frontend development using React and Tailwind CSS",
+    "Database design with MySQL and PostgreSQL",
+    "Experience building full-stack university and web projects",
+    "Strong foundation in OOP and software architecture"
   ],
+
   "cvLink": "/assets/yousef-sarama-cv.pdf",
+
   "email": "yosefsarama23@gmail.com",
   "phone": "+972 592 809 915",
-  "location": "Palestine, Ramallah",
+  "location": "Northern Cyprus",
+  "nationality": "Palestinian",
+
   "social": {
     "github": "https://github.com/YousefMSarama03",
     "linkedin": "https://www.linkedin.com/in/yousef-zakarya-0000y1111/"
   },
-  "techStack": ["React","TypeScript","Django","Python","MySQL","Node.js","Tailwind CSS","PostgreSQL","Docker","AWS","Git","CI/CD","PHP"],
-  "skills": [
-    { "name": "React", "level": 90 },
-    { "name": "PostgreSQL", "level": 85 },
-    { "name": "Node.js", "level": 80 },
-    { "name": "TypeScript", "level": 75 },
-    { "name": "Python", "level": 85 },
-    { "name": "Django", "level": 90 }
+
+  "techStack": [
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "PHP"
   ],
+
+  "skills": [
+    { "name": "Python", "level": 80 },
+    { "name": "Django", "level": 80 },
+    { "name": "React", "level": 75 },
+    { "name": "JavaScript", "level": 75 },
+    { "name": "MySQL", "level": 75 },
+    { "name": "PostgreSQL", "level": 70 }
+  ],
+
   "projects": [
     {
       "title": "SIIN Enterprise Web Platform",
@@ -76,40 +100,37 @@
       "github": "https://github.com/YousefMSarama03/Jeruslaem-fund"
     }
   ],
+
   "experience": [
     {
-      "company": "Sin Company",
-      "position": "Front-End Developer",
-      "period": "May 2024 – Aug 2025",
-      "description": "Worked as a Front-End Developer focusing on building modern, responsive, and high-performance web interfaces using React and Tailwind CSS. Collaborated closely with backend teams to integrate APIs and deliver seamless user experiences.",
+      "company": "Freelance",
+      "position": "Web Developer",
+      "period": "2024 – Present",
+      "description": "Worked on small web development projects including frontend websites and event systems.",
       "achievements": [
-        "Developed responsive and modern user interfaces using React and Tailwind CSS",
-        "Implemented UI/UX best practices to improve user engagement and accessibility",
-        "Collaborated with backend developers to integrate REST APIs securely and efficiently",
-        "Optimized front-end performance, reducing load times and improving responsiveness",
-        "Maintained clean, scalable, and reusable component-based code"
-      ]
-    },
-    {
-      "company": "Blue Company",
-      "position": "Freelance Web Developer",
-      "period": "Jul 2025 – Sep 2025",
-      "description": "Freelance Web Developer delivering end-to-end web solutions for clients, from requirements gathering to deployment. Worked independently and remotely to build responsive, performant websites aligned with business goals and client branding.",
-      "achievements": [
-        "Delivered complete web solutions independently while meeting tight deadlines",
-        "Collaborated remotely with clients to translate business requirements into technical solutions",
-        "Developed responsive, cross-device websites using modern frontend technologies",
-        "Integrated APIs to support dynamic content and real-time functionality",
-        "Improved website performance and usability through optimized code and UI/UX best practices"
+        "Developed responsive websites using React and modern CSS",
+        "Built backend APIs using Django for small projects",
+        "Worked with clients to translate ideas into functional web applications"
       ]
     }
   ],
+
   "education": [
     {
       "institution": "Cyprus International University",
       "degree": "B.Sc. in Software Engineering",
-      "period": "Jan 2022 – Jan 2026",
-      "description": "Completed a Bachelor's degree in Software Engineering with strong focus on Full-Stack Web Development, Database Systems, and Machine Learning. Gained hands-on experience through multiple academic and practical projects using modern technologies and Agile development practices."
+      "period": "2022 – 2026",
+      "description": "Studied software engineering including algorithms, operating systems, databases, networking, and web development."
     }
-  ]
+  ],
+
+  "certifications": [
+  {
+    "name": "Full Stack Web Development",
+    "provider": "Johns Hopkins University",
+    "platform": "Coursera",
+    "year": "2025",
+    "description": "Completed a professional course covering full stack web development including HTML, CSS, JavaScript, and modern web application architecture."
+  }
+]
 }
