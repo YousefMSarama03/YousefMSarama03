@@ -101,16 +101,33 @@
     }
   ],
 
-  "experience": [
+"experience": [
     {
-      "company": "Freelance",
-      "position": "Web Developer",
-      "period": "2024 – Present",
-      "description": "Worked on small web development projects including frontend websites and event systems.",
+      "company": "Sin Company",
+      "position": "Front-End Developer",
+      "location": "Tripoli, Libya",
+      "period": "May 2024 – Aug 2025",
+      "description": "Worked as a Front-End Developer building responsive and modern web interfaces and collaborating with backend teams to deliver complete web solutions.",
       "achievements": [
-        "Developed responsive websites using React and modern CSS",
-        "Built backend APIs using Django for small projects",
-        "Worked with clients to translate ideas into functional web applications"
+        "Developed responsive and user-friendly web interfaces using HTML5, CSS3, and JavaScript frameworks",
+        "Implemented modern UI/UX designs to improve usability and user engagement",
+        "Collaborated with backend developers to integrate REST APIs securely and efficiently",
+        "Optimized front-end performance, reducing page load times by up to 30%",
+        "Worked closely with designers to implement clean and consistent user interfaces"
+      ]
+    },
+    {
+      "company": "Blue Company",
+      "position": "Front-End Developer",
+      "location": "Ramallah, Palestine",
+      "period": "Jul 2025 – Sep 2025",
+      "description": "Freelance front-end developer delivering responsive websites and web applications tailored to client requirements.",
+      "achievements": [
+        "Built and maintained responsive websites aligned with client requirements and deadlines",
+        "Integrated APIs to support dynamic content and improved application functionality",
+        "Optimized web applications for performance and scalability across devices",
+        "Applied modern UI/UX principles to enhance accessibility and user experience",
+        "Collaborated with clients to gather requirements and deliver customized web solutions"
       ]
     }
   ],
