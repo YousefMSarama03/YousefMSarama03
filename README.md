@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Yousef Sarama
 
-💼 **Full Stack Developer**  
+💼 **Junior Backend Developer**  
 📍 Ramallah, Palestine  
 📧 yosefsarama23@gmail.com  
-🔗 [GitHub](https://github.com/YousefMSarama03) • [LinkedIn](https://www.linkedin.com/in/yousef-zakarya-0000y1111/)
+🔗 [GitHub](https://github.com/YousefMSarama03) • [LinkedIn](https://www.linkedin.com/in/yousef-zakarya-0000y1111/) • [Portfolio]([https://www.linkedin.com/in/yousef-zakarya-0000y1111/](https://yousefsarama.vercel.app/)) 
 
 ---
 
 ## 🚀 About Me
 
-Full Stack Developer focused on building scalable, production-ready web applications.  
-I specialize in modern frontend architecture and robust backend systems with an emphasis on clean code, performance, and maintainability.
+Junior Backend Developer with practical experience building web applications using Django, React, and REST APIs. Strong foundation in software engineering principles, database design, and full-stack development. Interested in building scalable backend systems and continuously improving development skills.
 
 ---
 
