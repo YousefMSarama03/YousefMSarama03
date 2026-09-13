@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Junior Backend Developer with practical experience building web applications using Django, React, and REST APIs. Strong foundation in software engineering principles, database design, and full-stack development. Interested in building scalable backend systems and continuously improving development skills.
+Software Engineering with 2+ years of practical experience in web development and a foundation in backend development using Python, Django, Django REST Framework, and MySQL. Experienced in building full-stack web applications, developing REST APIs, implementing JWT authentication, and integrating React frontends with backend services. Familiar with responsive web development, AI-powered application features, and collaborative software development. Seeking a Junior Backend Developer opportunity to contribute to reliable web applications while continuing to develop backend engineering skills.
 
 ---
 
